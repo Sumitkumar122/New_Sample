@@ -1,4 +1,4 @@
- - name: jmeterjenkins
+- name: jmeterjenkins
    run: mkdir reports
 
  - name: JMeter Test
